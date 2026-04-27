@@ -84,7 +84,7 @@ centinela-osint/
 
 
 👤 Author
-Sebastian [Last Name]
+Sebastian Guerrero
 CompTIA Security+ | Google Cybersecurity Certificate
 B.A. International Relations | Fluent in Spanish
 Based in Miami, FL
